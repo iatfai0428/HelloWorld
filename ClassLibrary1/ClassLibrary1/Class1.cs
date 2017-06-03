@@ -12,5 +12,10 @@ namespace ClassLibrary1
         {
             return 1;
         }
+
+        public void Func2()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
