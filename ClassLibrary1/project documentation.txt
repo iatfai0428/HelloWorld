@@ -1,3 +1,5 @@
-ver. 1.1.0.6
+ver. 1.1.0.7
 Add Func3
+Add Func4
+
 

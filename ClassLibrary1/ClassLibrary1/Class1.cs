@@ -10,7 +10,7 @@ namespace ClassLibrary1
     {
         public int Func1()
         {
-            return 20;
+            return 3;
         }
 
         public void Func2()
@@ -21,6 +21,11 @@ namespace ClassLibrary1
         public double Func3()
         {
             return (new Random()).NextDouble();
+        }
+
+        public bool Func4()
+        {
+            return true;
         }
     }
 }
