@@ -18,9 +18,9 @@ namespace ClassLibrary1
             Console.WriteLine($"Calling {this.GetType()}.Func2");
         }
 
-        public int Func3()
+        public double Func3()
         {
-            throw new NotImplementedException();
+            return (new Random()).NextDouble();
         }
     }
 }
