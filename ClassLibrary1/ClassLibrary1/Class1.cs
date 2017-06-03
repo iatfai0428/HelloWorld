@@ -25,7 +25,8 @@ namespace ClassLibrary1
 
         public bool Func4()
         {
-            return true;
+
+            return false;
         }
     }
 }
