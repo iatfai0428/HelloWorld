@@ -8,5 +8,9 @@ namespace ClassLibrary2
 {
     public class Class1
     {
+        public int Func1()
+        {
+            return 0;
+        }
     }
 }
