@@ -10,12 +10,12 @@ namespace ClassLibrary1
     {
         public int Func1()
         {
-            return 1;
+            return 2;
         }
 
         public void Func2()
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"Calling {this.GetType()}.Func2");
         }
     }
 }
