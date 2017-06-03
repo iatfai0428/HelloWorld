@@ -10,7 +10,7 @@ namespace ClassLibrary1
     {
         public int Func1()
         {
-            return 2;
+            return 3;
         }
 
         public void Func2()
