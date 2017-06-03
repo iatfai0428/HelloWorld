@@ -22,5 +22,10 @@ namespace ClassLibrary1
         {
             return (new Random()).NextDouble();
         }
+
+        public bool Func4()
+        {
+            return true;
+        }
     }
 }
