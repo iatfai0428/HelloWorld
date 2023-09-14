@@ -10,7 +10,7 @@ namespace ClassLibrary2
     {
         public int Func1()
         {
-            return 132;
+            return 5;
         }
     }
 }
